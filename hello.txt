@@ -14,3 +14,4 @@ Hello Git Gao!
 Hello Michael Gao master test!
 This is a hotfix line! hot-fix test
 Modified via GitHub.
+This line is from GitDemoClone.
