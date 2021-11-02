@@ -12,3 +12,4 @@ Hello Git!
 Hello Git!
 Hello Git Gao!
 Hello Michael Gao!
+This is a hotfix line!
